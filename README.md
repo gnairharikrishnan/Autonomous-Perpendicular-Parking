@@ -116,4 +116,4 @@ we know we are in the position where we should be pulling in to a parking spot. 
 turn right 90 degrees, and then pull in to the parking spot and lock the code in an infinite loop as our stop "state".
 
 
-
+PS: This repository only consists of the source files. If you want to flash this to a setup, please refer the parallel parking project for the drivers and make instructions. A good idea would be to clone that repository and replace the parallel parking file with this one.
